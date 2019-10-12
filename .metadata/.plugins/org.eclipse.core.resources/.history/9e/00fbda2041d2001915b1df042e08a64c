@@ -1,0 +1,11 @@
+package test_1;
+import java.util.Scanner;
+
+public class test_2 {
+	public static void main(String args[]) {
+		while (int  i<7) { 
+		    i++; 
+		    System.out.println(“i is “+i);  
+		} 
+	}
+}
